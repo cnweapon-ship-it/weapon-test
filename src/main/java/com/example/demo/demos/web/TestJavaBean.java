@@ -25,6 +25,6 @@ class Teacher {
     public void setName(String name) {
         this.name = name;
     }
-    public Teacher(String name) {}
+
 }
 
